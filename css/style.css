@@ -24,7 +24,7 @@ section[data-section="mysection"]{
     float: left;
 }
 aside[data-rightaside="right"]{
-    width: 25%;
+    width: 24%;
     border: 1px solid black;
     float: left;
 }
@@ -47,8 +47,5 @@ aside[data-rightaside="right"]{
     body{
         background-color:orangered;
     }
-    aside[data-rightaside="right"]{
-        width: 24%;
         
-    }
  }  
